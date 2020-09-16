@@ -24,7 +24,7 @@ interests:
 - Granular Flow
 - Adhesive particle dynamics
 - Modelling of complex solid-liquid flows
-- Lattice Boltzman Method-Discrete element method
+- Lattice Boltzman method-Discrete element method
 
 education:
   courses:
@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-
+Dr. Wenwei Liu is currently a postdoc research fellow at Department of Chemical and Process Engineering, University of Surrey, UK.
