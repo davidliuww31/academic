@@ -23,7 +23,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Chemical Engineering Science, 193, 336-345"
-publication_short: "Chem. Eng. Sci."
+publication_short: ""
 
 abstract: We explore 
 
