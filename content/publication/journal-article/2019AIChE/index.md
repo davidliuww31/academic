@@ -23,7 +23,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "AIChE Journal, 65(2), 500-511"
-publication_short: "AIChE J."
+publication_short: ""
 
 abstract: We explore 
 
