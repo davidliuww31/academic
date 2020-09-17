@@ -24,7 +24,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Physical Review E, 99(2), 022901"
-publication_short: "Phys. Rev. E"
+publication_short: ""
 
 abstract: We explore 
 
