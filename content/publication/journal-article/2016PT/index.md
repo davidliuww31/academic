@@ -22,7 +22,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Powder Technology, 302, 414-422"
-publication_short: "Powder Technolo."
+publication_short: "Powder Technol."
 
 abstract: With a 3D discrete-element method specially developed with adhesive contact mechanics, random loose packings of uniform spherical micron-sized particles are fully investigated. Characterized by a dimensionless adhesion parameter Ad proposed in the previous work, four packing regimes are identified, random close packing (RCP) regime with Ad<0.01, random loose packing (RLP) regime with 0.01<Ad<1, adhesion regime with 1<Ad<20 and an asymptotic limit regime with Ad>20. The evolution of the radial distribution function with respect to Ad is analyzed and divided into three stages. Force distribution of these adhesive loose packings follows P(f)~f($\theta$) for small forces and P(f)~$\exp(−\beta f)$ for big forces, respectively, which shares a similar form with that in packings without adhesion but results in distinct exponents of $\theta=0.879$, $\beta=0.839$ for normal forces. A local mechanical equilibrium analysis demonstrates that adhesion enhances both sliding and rolling resistance so that the fairly loose packing structures of adhesive particles can still be mechanically stable.
 
