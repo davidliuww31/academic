@@ -23,7 +23,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Journal of Fluid Mechanics, 835, 880–897"
-publication_short: "J. Fluid Mech."
+publication_short: ""
 
 abstract: We explore 
 
