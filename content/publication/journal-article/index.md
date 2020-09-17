@@ -26,7 +26,7 @@ publication_types: ["2"]
 publication: "Soft Matter, 11(32), 6492-6498"
 publication_short: ""
 
-abstract: We explore adhesive loose packings of small dry spherical particles of micrometer size using 3D discrete-element simulations with adhesive contact mechanics and statistical ensemble theory. A dimensionless adhesion parameter (Ad) successfully combines the effects of particle velocities, sizes and the work of adhesion, identifying a universal regime of adhesive packings for Ad > 1.
+abstract: We explore adhesive loose packings of small dry spherical particles of micrometer size using 3D discrete-element simulations with adhesive contact mechanics and statistical ensemble theory. A dimensionless adhesion parameter (Ad) successfully combines the effects of particle velocities, sizes and the work of adhesion, identifying a universal regime of adhesive packings for Ad > 1. The structural properties of the packings in this regime are well described by an ensemble approach based on a coarse-grained volume function that includes the correlation between bulk and contact spheres. Our theoretical and numerical results predict:
 
 # Summary. An optional shortened abstract.
 summary: We explore adhesive loose packings of small dry spherical particles of micrometer size using 3D discrete-element simulations with adhesive contact mechanics and statistical ensemble theory.
