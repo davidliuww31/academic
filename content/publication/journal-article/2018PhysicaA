@@ -1,0 +1,13 @@
+@article{Eru18,
+title = "High-resolution of particle contacts via fluorophore exclusion in deep-imaging of jammed colloidal packings",
+journal = "Physica A: Statistical Mechanics and its Applications",
+volume = "490",
+pages = "1387 - 1395",
+year = "2018",
+issn = "0378-4371",
+doi = "https://doi.org/10.1016/j.physa.2017.08.029",
+url = "http://www.sciencedirect.com/science/article/pii/S0378437117307628",
+author = "Eru Kyeyune-Nyombi and Flaviano Morone and Wenwei Liu and Shuiqing Li and M. Lane Gilchrist and Hernán A. Makse",
+keywords = "Random sphere packing, Colloids, Contacts, Jamming transition",
+abstract = "Understanding the structural properties of random packings of jammed colloids requires an unprecedented high-resolution determination of the contact network providing mechanical stability to the packing. Here, we address the determination of the contact network by a novel strategy based on fluorophore signal exclusion of quantum dot nanoparticles from the contact points. We use fluorescence labeling schemes on particles inspired by biology and biointerface science in conjunction with fluorophore exclusion at the contact region. The method provides high-resolution contact network data that allows us to measure structural properties of the colloidal packing near marginal stability. We determine scaling laws of force distributions, soft modes, correlation functions, coordination number and free volume that define the universality class of jammed colloidal packings and can be compared with theoretical predictions. The contact detection method opens up further experimental testing at the interface of jamming and glass physics."
+}
