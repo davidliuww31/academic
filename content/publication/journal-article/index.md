@@ -35,8 +35,8 @@ featured: false
 
 # links:
 # - name: ""
-   url: "https://pubs.rsc.org/no/content/articlelanding/2015/sm/c5sm01169h/unauth#!divAbstract"
-url_pdf: ''
+#   url: ""
+url_pdf: 'https://pubs.rsc.org/no/content/articlelanding/2015/sm/c5sm01169h/unauth#!divAbstract'
 url_code: ''
 url_dataset: ''
 url_poster: ''
