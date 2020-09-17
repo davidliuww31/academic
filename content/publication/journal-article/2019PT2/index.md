@@ -23,7 +23,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Powder Technology, 357, 83-96"
-publication_short: "Powder Technol."
+publication_short: ""
 
 abstract: We explore 
 
