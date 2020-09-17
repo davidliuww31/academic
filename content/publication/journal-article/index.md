@@ -23,7 +23,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Soft Matter, 11(32), 6492-6498*"
+publication: "*Soft Matter, 11(32), 6492-6498*(1)"
 publication_short: ""
 
 # abstract: .
