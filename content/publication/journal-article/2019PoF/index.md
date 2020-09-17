@@ -22,7 +22,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Physics of Fluids, 31(6), 063301"
-publication_short: "Phys. Fluids"
+publication_short: ""
 
 abstract: We explore 
 
