@@ -26,10 +26,10 @@ publication_types: ["2"]
 publication: "Soft Matter, 11(32), 6492-6498"
 publication_short: ""
 
-# abstract: We explore adhesive loose packings of small dry spherical particles of micrometer size using 3D discrete element simulations with adhesive contact mechanics and statistical ensemble theory. 
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-# summary: We explore adhesive loose packings of small dry spherical particles of micrometer size using 3D discrete element simulations with adhesive contact mechanics and statistical ensemble theory.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
