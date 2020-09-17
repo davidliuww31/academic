@@ -26,7 +26,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Physica A: Statistical Mechanics and its Applications, 490, 1387 - 1395"
-publication_short: "Physica A"
+publication_short: ""
 
 #abstract: We explore 
 
