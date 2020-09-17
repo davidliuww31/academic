@@ -7,9 +7,9 @@ authors:
 - Hernán A. Makse
 author_notes:
 - ""
-- "Corresponding Author"
+- "Corresponding Author*"
 - ""
-- "Corresponding Author"
+- "Corresponding Author*"
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
@@ -23,13 +23,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Soft Matter, 11(32), 6492-6498*(1)"
+publication: "*Soft Matter, 11(32), 6492-6498*"
 publication_short: ""
 
 # abstract: .
 
 # Summary. An optional shortened abstract.
-# summary: .
+ summary: We explore adhesive loose packings of small dry spherical particles of micrometer size using 3D discrete-element simulations with adhesive contact mechanics and statistical ensemble theory. A dimensionless adhesion parameter (Ad) successfully combines the effects of particle velocities, sizes and the work of adhesion, identifying a universal regime of adhesive packings for Ad > 1. The structural properties of the packings in this regime are well described by an ensemble approach based on a coarse-grained volume function that includes the correlation between bulk and contact spheres. Our theoretical and numerical results predict: (i) an equation of state for adhesive loose packings that appear as a continuation from the frictionless random close packing (RCP) point in the jamming phase diagram and (ii) the existence of an asymptotic adhesive loose packing point at a coordination number Z = 2 and a packing fraction ϕ = 1/23. Our results highlight that adhesion leads to a universal packing regime at packing fractions much smaller than the random loose packing (RLP), which can be described within a statistical mechanical framework. We present a general phase diagram of jammed matter comprising frictionless, frictional, adhesive as well as non-spherical particles, providing a classification of packings in terms of their continuation from the spherical frictionless RCP.
 
 tags:
 - Source Themes
@@ -68,13 +68,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
