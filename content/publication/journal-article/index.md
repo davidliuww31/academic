@@ -29,7 +29,7 @@ publication_short: ""
 # abstract: .
 
 # Summary. An optional shortened abstract.
- summary: We .
+# summary: We .
 
 tags:
 - Source Themes
