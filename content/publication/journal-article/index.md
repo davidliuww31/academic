@@ -7,7 +7,9 @@ authors:
 - Hernán A. Makse
 author_notes:
 - ""
+- "Corresponding Author"
 - ""
+- "Corresponding Author"
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
@@ -24,10 +26,10 @@ publication_types: ["2"]
 publication: "*Soft Matter, 11(32), 6492-6498*(1)"
 publication_short: ""
 
-abstract: We explore .
+# abstract: .
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: .
 
 tags:
 - Source Themes
